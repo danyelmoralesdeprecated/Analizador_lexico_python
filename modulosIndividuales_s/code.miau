@@ -1,0 +1,5 @@
+cat programNuevo
+int x[]; float y;
+int res =  4 + 5;
+maulla "hola";
+end programNuevo
